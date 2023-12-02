@@ -26,7 +26,7 @@ python main.py
 ```
 Follow the on-screen menu to choose the desired operation. Input the required data as prompted, and the script will display the results.
 
-##Functions
+## Functions
 - `XtoMASK(X)`: Converts CIDR notation (e.g., /24) to a subnet mask (e.g., 255.255.255.0).
 - `MasktoX(mask)`: Converts a subnet mask to CIDR notation.
 - `calculate_network_and_broadcast(ip_address, subnet_mask)`: Calculates network and broadcast addresses from an IP address and a subnet mask.
@@ -36,8 +36,8 @@ Follow the on-screen menu to choose the desired operation. Input the required da
 - `is_private_ip(ip)`: Checks if an IP address is private.
 - `find_next_subnet(ip_address, subnet_mask)`: Calculates the next subnet address.
 
-##Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
 
-##Contact
+## Contact
 Dayssam BAKAAR - dayssam.bakaar@gmail.com
